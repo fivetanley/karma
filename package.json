@@ -155,7 +155,7 @@
     "karma-sauce-launcher": "*",
     "karma-phantomjs-launcher": "*",
     "karma-ng-scenario": "*",
-    "karma-coffee-preprocessor": "*",
+    "karma-coffee-preprocessor": "< 2.0.0",
     "karma-html2js-preprocessor": "*",
     "karma-browserstack-launcher": "git://github.com/karma-runner/karma-browserstack-launcher.git",
     "semver": "~1.1.4",
